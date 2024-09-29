@@ -5,6 +5,7 @@ const Layout = () => {
         <div>
            
                 <Link to="/">Home</Link>
+                <Link to="/contact">ContactUs</Link>
             
             <Outlet />
         </div>
